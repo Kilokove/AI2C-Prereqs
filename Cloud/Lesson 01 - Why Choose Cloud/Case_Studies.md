@@ -19,6 +19,7 @@ This document outlines key case studies demonstrating the specific upsides of cl
 * **The Challenge:** Designing hardware for lunar landers involves complex engineering simulations that are computationally expensive and slow to iterate on.
 * **Cloud Upside:** By moving design simulations to the cloud, they ran thousands of design variations simultaneously.
 * **Key Result:** Compressed the design cycle from **years to days**, allowing engineers to print and test prototypes immediately.
+* **Source** [How Blue Origin Built the First AI Agent-Designed Hardware for the Moon](https://aws.amazon.com/solutions/case-studies/blue-origin-case-study/)
 
 ---
 
