@@ -25,7 +25,7 @@ This handout covers six real-world scenarios regarding cloud infrastructure, dep
 * **SaaS (Software as a Service):** (e.g., WordPress.com) Zero maintenance, but no backend code access.
 * **Shared Hosting:** (e.g., Bluehost) Cheap, but suffers from the "Noisy Neighbor" effect.
 
-> **Verdict:** For an IT course where the goal is understanding *how* servers work, **IaaS** is the correct choice because it forces you to manually install and configure the services.
+> **Verdict:** If you are deploying the LAMP stack yourself, you need the fine-grained access that IaaS provides. Otherwise, you can use one of the other service models to offload some of that work to the service provider at the cost of flexiblity.
 
 
 
